@@ -1,0 +1,7 @@
+pip is python package management system it is used to play with python packages
+
+pip install packagename
+pip install packagename --upgrade
+pip list
+pip list -o
+pip uninstall packagename
